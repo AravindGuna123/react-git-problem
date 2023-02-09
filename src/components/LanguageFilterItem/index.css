@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.buttons-container {
+  list-style-type: none;
+  display: flex;
+}
+
+.list-item {
+  margin-right: 15px;
+  font-family: 'Lobster';
+  outline: none;
+  background-color: none;
+  border-color: none;
+  border-width: 0px;
+  font-size: 25px;
+}
+button {
+  outline: none;
+  background-color: transparent;
+  border-color: none;
+  border-width: 0px;
+  border-radius: 15px;
+}
+
+.blue-mod {
+  color: #0284c7;
+  border-width: 1px;
+  border-radius: 15px;
+  border-color: #0284c7;
+}
